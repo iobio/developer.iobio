@@ -12,8 +12,8 @@ permalink:           pretty
 name:                iobio home
 title:               iobio
 tagline:             'real-time genomic analysis'
-description:         blog on iobio, genomics, and visualization
-url:                 http://iobio.io
+description:         iobio dev kit
+url:                 http://developer.iobio.io
 baseurl:             /
 
 # About/contact
