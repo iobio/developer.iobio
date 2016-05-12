@@ -14,7 +14,7 @@ title:               iobio
 tagline:             'real-time genomic analysis'
 description:         iobio dev kit
 url:                 http://developer.iobio.io
-baseurl:             /
+baseurl:             /developer.iobio/
 
 # About/contact
 author:
